@@ -14,3 +14,8 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+
+## This is the project Below
+
+Click on this [LINK] (https://salthacked.github.io/UdacityPixel-Art-Maker/) to see the live version of the website.
