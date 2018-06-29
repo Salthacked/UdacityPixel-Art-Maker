@@ -5,7 +5,7 @@
  
 const c = document.getElementById("#pixelCanvas");
 let conh = $("#inputHeight");
-let conw = $('#inputWeight');
+let conw = $("#inputWeight");
 
 //An event listener that comes into action when Submit button is clicked .
 $('input[type="submit"]').click(function(e) {
