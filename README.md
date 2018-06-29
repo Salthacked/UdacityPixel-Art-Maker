@@ -18,4 +18,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## This is the project Below
 
-Click on this [LINK] (https://salthacked.github.io/UdacityPixel-Art-Maker/) to see the live version of the website.
+Click on this [LINK](https://salthacked.github.io/UdacityPixel-Art-Maker/) to see the live version of the website.
